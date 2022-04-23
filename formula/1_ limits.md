@@ -64,3 +64,5 @@ $\ln(1 + bx^a) \sim bx^a$
 - $\ln(1 + x) = x - \frac{x^2}{2} + ... + (-1)^{n}\frac{x^n}{n} + o(x^n)$
 
 - $(1 + x)^n = 1 + \alpha x + \frac{\alpha(\alpha - 1)}{2!}x^2 + ... + \frac{\alpha(\alpha - 1)...(\alpha - n + 1)}{2!}x^n + o(x^n)$
+
+mathpix-markdown-it
